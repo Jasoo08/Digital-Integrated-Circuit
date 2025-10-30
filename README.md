@@ -1,4 +1,4 @@
-# DIC Lab3 — CNN Optimize (Verilog)
+# DIC Lab3 - Convolution Neural Network (Verilog)
 
 ## Purpose
 High-throughput **streaming CNN micro-kernel** for hardware labs: performs **3×3 convolution → 2×2 average pooling → ReLU** with deep pipelining and Synopsys DesignWare IP.  
