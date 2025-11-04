@@ -12,7 +12,7 @@ High-throughput **streaming CNN micro-kernel** for hardware labs: performs **3×
 - **Area**: 28,097 μm²  
 - **Clock period**: 350 ps  
 - **End-to-end latency**: 212 cycles  
-- **Labelled throughput**: “GOPS: 1250” (project note)
+- **Area Efficiency (Throughput / Area)**: “GOPS: 1250”
 
 ## Pipeline Overview
 1. **Line buffers (3×14)** form sliding **3×3** windows over a 14×14 IFM.  
